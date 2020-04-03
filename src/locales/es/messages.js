@@ -1,0 +1,1 @@
+/* eslint-disable */module.exports={languageData:{"plurals":function(n,ord){if(ord)return"other";return n==1?"one":"other"}},messages:{"Message Inbox":"Message Inbox","See all <0>unread messages</0> or <1>mark them</1> as read.":"See all <0>unread messages</0> or <1>mark them</1> as read."}};
